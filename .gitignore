@@ -1,0 +1,11 @@
+
+/bin/
+/dist/
+/out/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.app
+.env
